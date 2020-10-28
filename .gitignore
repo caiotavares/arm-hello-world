@@ -1,0 +1,13 @@
+# MacOS
+.DS_store
+
+# Build
+*.out
+*.map
+*.obj
+./target/**
+./out/**
+
+# Editor
+.vscode
+.project
