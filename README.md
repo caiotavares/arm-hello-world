@@ -11,6 +11,15 @@
 - Install the flash burner `Uniflash` and setup the burn settings for the board, go to `Standalone Command line tool` and export a binary with the selected configurations.
 - Export `ARM_BURNER` environment variable with the exported binary above
 
+## Getting Started
+
+```sh
+> git clone git@github.com:caiotavares/arm-first-steps.git
+> cd arm-first-steps
+> make
+> ./burn ./out/hello_world.out
+```
+
 ## Example Summary
 
 This demo software demonstrates a basic blink LED example on the MSP-EXP432P401R LaunchPad development kit.
