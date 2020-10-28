@@ -1,8 +1,8 @@
 ## Dependencies
 
-- Compiler [GNU ARM Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
-- SDK [Texas Instruments MSP432 SDK](https://www.ti.com/tool/download/SIMPLELINK-MSP432-SDK)
-- Burner [Uniflash](https://www.ti.com/tool/download/UNIFLASH)
+- Compiler: [GNU ARM Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads)
+- SDK: [Texas Instruments MSP432 SDK](https://www.ti.com/tool/download/SIMPLELINK-MSP432-SDK)
+- Burner: [Uniflash](https://www.ti.com/tool/download/UNIFLASH)
 
 ## Example Summary
 
