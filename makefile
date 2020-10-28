@@ -9,7 +9,7 @@ LNK = "$(GCC_ARMCOMPILER)/bin/arm-none-eabi-gcc"
 
 OBJECTS = ./target/main.obj ./target/system_msp432p401r.obj ./target/gcc_startup_msp432p401r_gcc.obj
 
-NAME = ./out/blinkled_msp432p401r
+NAME = ./out/hello_world
 
 CFLAGS = -I.. \
     "-I$(SIMPLELINK_MSP432_SDK_INSTALL_DIR)/source" \
