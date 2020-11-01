@@ -6,11 +6,13 @@
 
 ## Setup
 
-- Install the compiler, SDK and OpenOCD for debugging
+- Install the compiler, SDK and the latest commit of OpenOCD for debugging
   - `brew install armmbed/formulae/arm-none-eabi-gcc`
-  - `brew install openocd`
+  - `brew install openocd --HEAD`
+  
+      You may also need to install openocd dependencies: autoconf, automake and texinfo  
+  
 - Export `GCC_ARM_HOME` and `ARM_SDK_HOME` environment variables pointing to the compiler and SDK homes, respectively
-- Install the latest commit of OpenOCD, either build it from source or get it from a package manager.
 
 ## Getting Started
 
