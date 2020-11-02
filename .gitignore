@@ -9,5 +9,4 @@
 ./out/**
 
 # Editor
-.vscode
 .project

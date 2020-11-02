@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "ARM",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${env:ARM_SDK_HOME}/source/**"
+            ],
+            "defines": [],
+            "macFrameworkPath": [],
+            "compilerPath": "${env:GCC_ARMCOMPILER}/bin/arm-none-eabi-gcc",
+            "cStandard": "c99",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
