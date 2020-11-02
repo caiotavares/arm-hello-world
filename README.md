@@ -12,7 +12,7 @@
   
       You may also need to install openocd dependencies: autoconf, automake and texinfo  
   
-- Export `GCC_ARM_HOME` and `ARM_SDK_HOME` environment variables pointing to the compiler and SDK homes, respectively
+- Export `GCC_ARMCOMPILER` and `ARM_SDK_HOME` environment variables pointing to the compiler and SDK homes, respectively
 
 ## Getting Started
 
