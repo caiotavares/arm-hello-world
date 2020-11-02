@@ -10,7 +10,7 @@
   - `brew install armmbed/formulae/arm-none-eabi-gcc`
   - `brew install openocd --HEAD`
   
-      You may also need to install openocd dependencies: autoconf, automake and texinfo  
+      You may also need to install openocd dependencies: `autoconf`, `automake` and `texinfo` 
   
 - Export `GCC_ARMCOMPILER` and `ARM_SDK_HOME` environment variables pointing to the compiler and SDK homes, respectively
 
